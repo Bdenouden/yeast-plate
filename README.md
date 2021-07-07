@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://bmlabs.nl" target="_blank">
+    <a href="#" target="_BLANK">
         <img src="icon.svg " height="150px">
     </a>
     <h1 align="center">Yeast plate</h1>
